@@ -1,0 +1,9 @@
+d:\eleks\DependencyDemo3\DependencyDemo3\bin\Debug\netcoreapp1.1\DependencyDemo3.deps.json
+d:\eleks\DependencyDemo3\DependencyDemo3\bin\Debug\netcoreapp1.1\DependencyDemo3.runtimeconfig.json
+d:\eleks\DependencyDemo3\DependencyDemo3\bin\Debug\netcoreapp1.1\DependencyDemo3.runtimeconfig.dev.json
+d:\eleks\DependencyDemo3\DependencyDemo3\bin\Debug\netcoreapp1.1\DependencyDemo3.dll
+d:\eleks\DependencyDemo3\DependencyDemo3\bin\Debug\netcoreapp1.1\DependencyDemo3.pdb
+d:\eleks\DependencyDemo3\DependencyDemo3\obj\Debug\netcoreapp1.1\DependencyDemo3.csprojResolveAssemblyReference.cache
+d:\eleks\DependencyDemo3\DependencyDemo3\obj\Debug\netcoreapp1.1\DependencyDemo3.AssemblyInfo.cs
+d:\eleks\DependencyDemo3\DependencyDemo3\obj\Debug\netcoreapp1.1\DependencyDemo3.dll
+d:\eleks\DependencyDemo3\DependencyDemo3\obj\Debug\netcoreapp1.1\DependencyDemo3.pdb
